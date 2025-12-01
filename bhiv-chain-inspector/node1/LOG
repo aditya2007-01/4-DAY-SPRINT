@@ -1,0 +1,8 @@
+=============== Dec 1, 2025 (IST) ===============
+18:02:39.950010 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:02:39.966022 db@open opening
+18:02:39.968036 version@stat F·[] S·0B[] Sc·[]
+18:02:39.970561 db@janitor F·2 G·0
+18:02:39.970561 db@open done T·4.5396ms
+18:02:40.042067 db@close closing
+18:02:40.042067 db@close done T·0s
