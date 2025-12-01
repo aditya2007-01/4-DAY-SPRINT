@@ -1,0 +1,9 @@
+What is JSON Flag?
+
+JSON Flag is command to the machine to convert the human-readable output into machine-readable output
+
+The keyword used is as follows:-
+
+--json
+SYNTAX:-
+go run filename.go -cmd scan errors -db. /leveldb-data --json

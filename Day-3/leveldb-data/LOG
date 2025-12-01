@@ -1,0 +1,41 @@
+=============== Dec 1, 2025 (IST) ===============
+06:16:12.985562 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:16:12.989575 db@open opening
+06:16:12.991337 version@stat F·[] S·0B[] Sc·[]
+06:16:12.992818 db@janitor F·2 G·0
+06:16:12.992818 db@open done T·3.2432ms
+06:16:12.997201 db@close closing
+06:16:12.997861 db@close done T·659.4µs
+=============== Dec 1, 2025 (IST) ===============
+06:16:31.447557 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:16:31.449630 version@stat F·[] S·0B[] Sc·[]
+06:16:31.449630 db@open opening
+06:16:31.449630 journal@recovery F·1
+06:16:31.450155 journal@recovery recovering @1
+06:16:31.450672 version@stat F·[] S·0B[] Sc·[]
+06:16:31.458705 db@janitor F·2 G·0
+06:16:31.458705 db@open done T·9.0754ms
+06:16:31.466406 db@close closing
+06:16:31.468416 db@close done T·2.01ms
+=============== Dec 1, 2025 (IST) ===============
+06:23:09.291770 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:23:09.293383 version@stat F·[] S·0B[] Sc·[]
+06:23:09.293383 db@open opening
+06:23:09.293383 journal@recovery F·1
+06:23:09.293383 journal@recovery recovering @2
+06:23:09.293912 version@stat F·[] S·0B[] Sc·[]
+06:23:09.308014 db@janitor F·2 G·0
+06:23:09.308014 db@open done T·14.6316ms
+06:23:09.319211 db@close closing
+06:23:09.321900 db@close done T·2.6881ms
+=============== Dec 1, 2025 (IST) ===============
+06:23:24.207608 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:23:24.208673 version@stat F·[] S·0B[] Sc·[]
+06:23:24.209188 db@open opening
+06:23:24.209188 journal@recovery F·1
+06:23:24.209709 journal@recovery recovering @4
+06:23:24.210259 version@stat F·[] S·0B[] Sc·[]
+06:23:24.216252 db@janitor F·2 G·0
+06:23:24.216252 db@open done T·7.0636ms
+06:23:24.221759 db@close closing
+06:23:24.221759 db@close done T·0s
